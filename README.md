@@ -4,4 +4,6 @@ In here, you will be watching Machine Learning basics exercises. In order to und
 
 https://d2l.ai/
 
+https://mml-book.github.io/book/mml-book.pdf
+
 
