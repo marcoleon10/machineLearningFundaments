@@ -5,5 +5,3 @@ Consider that some scientists working for a powerful oil company have an intuiti
 The oil company asks a data scientist to find this correlation (if it exists), and after failing to fit the data to a multilinear polynomial regression model and the first two bivariate (of degrees 2 and 3).
 
 The file price_dataset.dat contains the dataset of two independent variables Mendacium (column 1) and Depth (column 2) and the dependent variable is Price (column 3). Estimate the unknown parameters of the regression model.
-
-Translated with DeepL.com (free version)
