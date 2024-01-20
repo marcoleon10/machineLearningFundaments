@@ -1,0 +1,9 @@
+Apply a polynomial regression of degree 2 and 3 to find a correlation between the value of a barrel of oil and the concentration at some depth of a mineral called Mendacium.
+
+Consider that some scientists working for a powerful oil company have an intuition that there is a correlation between the quality of inland soil oil and the concentration at some depth of a mineral called Mendacium. They decide to construct a data set containing the price per barrel after refining of the oil found at a certain depth in the ground with the concentration of Mendacium found at this depth. The data set created is a matrix containing 1000 rows whose columns are Mendacium (concentration in g/m^3), Depth (in meters) and Price (in dollars/barrel).
+
+The oil company asks a data scientist to find this correlation (if it exists), and after failing to fit the data to a multilinear polynomial regression model and the first two bivariate (of degrees 2 and 3).
+
+The file price_dataset.dat contains the dataset of two independent variables Mendacium (column 1) and Depth (column 2) and the dependent variable is Price (column 3). Estimate the unknown parameters of the regression model.
+
+Translated with DeepL.com (free version)
