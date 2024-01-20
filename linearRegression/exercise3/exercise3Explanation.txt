@@ -1,0 +1,10 @@
+The gas turbine emissions data set was obtained from a monitoring of 11 sensor measurements aggregated for one hour, from a gas turbine located in Turkey in order to study the flue gas emissions of CO, NOx and energy efficiency (TEY).
+
+The files gasturbine_2011.csv to gasturbine_2015.csv, contains the dataset with the independent (AT, AP, AH, AFDP,GTEP, TIT, TAT and CDP) and dependent (TEY, CO and NOx) variables.
+
+Use the dataset to estimate the regression model to predict turbine energy yield (TEY), CO and NOx emissions using the turbine and environmental variables as characteristics.
+
+
+
+
+
